@@ -2,7 +2,7 @@
 https://tourist-09.netlify.app/
 
 
-# Tourist-Web
+# Travel-India
 The "Travel India" website is designed using HTML, CSS, and JavaScript to showcase the beauty, culture, and diversity of India’s travel destinations. This website provides an engaging and interactive experience for users looking to explore India’s famous places, traditions, and adventures.
 
 Structure and Features:
