@@ -5,7 +5,6 @@ Welcome to the Travel India website! 🇮🇳 This platform is dedicated to show
 ## 🌟 Features
 - **Responsive Design:** Seamless experience across mobile, tablet, and desktop devices.
 - **Interactive Pages:** Engaging sections including Home, About, Contact Us, Login, and Signup.
-- **
 - **Explore India:** Discover famous destinations, travel guides, and cultural insights.
   
 
